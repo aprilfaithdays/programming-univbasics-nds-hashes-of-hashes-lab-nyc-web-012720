@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
   
   starting_node = {
-    sub_category: {
+      Kingdom: {
       label: "Kingdom"
       sub_category: {
         label: "Phylum"
