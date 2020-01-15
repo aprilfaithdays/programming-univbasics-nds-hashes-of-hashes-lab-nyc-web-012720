@@ -44,7 +44,9 @@ def naming_system
   
   starting_node = {
     sub_category: {
+      label: "Kingdom"
       sub_category: {
+        label: "Phylum"
         sub_category:{
           label: "Order",
           sub_category: {
